@@ -13,7 +13,23 @@
         android:theme="@style/Theme.ProjectAkhir"
         tools:targetApi="31">
         <activity
-            android:name=".PlaceHolder.MainActivity"
+            android:name=".DataAlumniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddAlumniActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".EditAlumniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailNewsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
