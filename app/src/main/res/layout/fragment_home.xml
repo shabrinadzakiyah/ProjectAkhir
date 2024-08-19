@@ -22,7 +22,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Aplikasi Data Alumni kami dirancang khusus untuk membantu lembaga pendidikan mengelola dan melacak informasi alumni secara efisien. Dengan fitur yang komprehensif, aplikasi ini memungkinkan pengguna untuk menyimpan, memperbarui, dan mengakses data alumni dengan mudah."
+            android:text="Aplikasi Data Alumni dibuat khusus untuk memudahkan lembaga pendidikan dalam mengelola dan memantau informasi alumni secara efektif. Dilengkapi dengan berbagai fitur lengkap, aplikasi ini memungkinkan pengguna untuk menyimpan, memperbarui, dan mengakses data alumni dengan cepat dan mudah serta efisien"
             android:layout_margin="20dp"
             android:textSize="16sp"
             android:layout_marginTop="100dp"

@@ -49,9 +49,9 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(
         )
 
         val contents = listOf(
-            "Discover the latest technological innovations and breakthroughs happening in the tech world. From cutting-edge gadgets to revolutionary software, get all the updates on what’s new in technology.",
-            "Catch up on the most exciting sports moments from this week. From thrilling match highlights to standout performances, find out what made the headlines in the world of sports.",
-            "Stay informed about major global events that are shaping our world. From political developments to significant cultural shifts, get the latest news on what’s happening around the globe."
+            "85% alumni universitas XYZ berhasil mendapatkan pekerjaan sesuai jurusan dalam 6 bulan setelah lulus.",
+            "70% alumni menyatakan bahwa jaringan alumni berperan penting dalam memperoleh pekerjaan.",
+            "Program mentorship universitas disebut sebagai faktor kunci dalam kesuksesan karier alumni."
         )
 
         val imageResourceIds = listOf(
